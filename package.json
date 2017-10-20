@@ -1,0 +1,23 @@
+{
+  "id": "iheart",
+  "name": "iHeart Radio",
+  "version": "1.0.0",
+  "description": "iHeart Radio",
+  "main": "index.js",
+  "author": "SiloCityLabs LLC",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.iheart.com/",
+    "serviceName": "iHeart Radio",
+    "message": "iHeart Radio",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "customURL": false,
+    "hasTeamID": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
